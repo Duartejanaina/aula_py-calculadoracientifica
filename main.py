@@ -4,6 +4,7 @@ if __name__ == "__main__":
     print("Bem-vindo ao Sistema Calculadora Terceirão.")
     input("Pressione Enter para iniciar a calculadora...")
 
+
     while True:
         # chama sua função principal
         funcao_calculadora.calculadora()
