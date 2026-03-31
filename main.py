@@ -2,6 +2,8 @@ import funcao_calculadora
 
 if __name__ == "__main__":
     print("Bem-vindo ao Sistema Calculadora Terceirão.")
+    print("**************************************")
+    print("*** Profª Janaina Duarte- Python***")
     input("Pressione Enter para iniciar a calculadora...")
 
 
